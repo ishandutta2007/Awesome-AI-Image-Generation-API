@@ -43,7 +43,7 @@ The table below lists leading commercial image generation APIs and cloud inferen
 
 ## 🔓 Open-Source GitHub Projects & Models
 
-The following table indexes popular open-source text-to-image repositories, UI frameworks, diffusion models, and fine-tuning toolchains, sorted by **GitHub Stars_Count (descending)** ⭐.
+The following table indexes popular open-source text-to-image repositories, UI frameworks, diffusion models, and fine-tuning toolchains, sorted by **GitHub_Stars_Count (descending)** ⭐.
 
 | 📦 Repository / Project | ⭐️ Stars_Count | 📜 License | 🛠️ Category & Highlights |
 | :--- | :--- | :--- | :--- |
