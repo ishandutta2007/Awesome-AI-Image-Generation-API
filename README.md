@@ -43,9 +43,9 @@ The table below lists leading commercial image generation APIs and cloud inferen
 
 ## 🔓 Open-Source GitHub Projects & Models
 
-The following table indexes popular open-source text-to-image repositories, UI frameworks, diffusion models, and fine-tuning toolchains, sorted by **GitHub Star Count (descending)** ⭐.
+The following table indexes popular open-source text-to-image repositories, UI frameworks, diffusion models, and fine-tuning toolchains, sorted by **GitHub Stars_Count (descending)** ⭐.
 
-| 📦 Repository / Project | ⭐️ Star Count | 📜 License | 🛠️ Category & Highlights |
+| 📦 Repository / Project | ⭐️ Stars_Count | 📜 License | 🛠️ Category & Highlights |
 | :--- | :--- | :--- | :--- |
 | **[AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** | [<img src="https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social&color=white" alt="AUTOMATIC1111 Stars"/>](https://github.com/AUTOMATIC1111/stable-diffusion-webui/stargazers) | AGPL-3.0 | The definitive feature-rich Web UI for Stable Diffusion with massive extension ecosystem, LoRA, and ControlNet support. |
 | **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** | [<img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white" alt="ComfyUI Stars"/>](https://github.com/comfyanonymous/ComfyUI/stargazers) | GPL-3.0 | Node-based workflow engine for FLUX, SDXL, SD3, and video models. De-facto industry standard for modular generation graphs. |
@@ -65,7 +65,7 @@ We welcome contributions from developers, researchers, and AI builders! 🚀
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or edit** entries in `README.md` following the tabular format.
-3. 📌 **Provide verifiable details**: Name, URL, pricing/free limits, star count, and clear descriptions.
+3. 📌 **Provide verifiable details**: Name, URL, pricing/free limits, Stars_Count, and clear descriptions.
 4. 📬 **Open a Pull Request** with a concise description of your changes.
 
 ---
